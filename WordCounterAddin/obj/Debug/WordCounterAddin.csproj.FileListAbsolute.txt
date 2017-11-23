@@ -1,0 +1,13 @@
+E:\Programmieren\Word\WordCounterAddin\WordCounterAddin\bin\Debug\WordCounterAddin.dll
+E:\Programmieren\Word\WordCounterAddin\WordCounterAddin\bin\Debug\WordCounterAddin.pdb
+E:\Programmieren\Word\WordCounterAddin\WordCounterAddin\bin\Debug\WordCounterAddin.dll.manifest
+E:\Programmieren\Word\WordCounterAddin\WordCounterAddin\bin\Debug\WordCounterAddin.vsto
+E:\Programmieren\Word\WordCounterAddin\WordCounterAddin\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+E:\Programmieren\Word\WordCounterAddin\WordCounterAddin\obj\Debug\WordCounterAddin.csprojResolveAssemblyReference.cache
+E:\Programmieren\Word\WordCounterAddin\WordCounterAddin\obj\Debug\WordCounterAddin.Properties.Resources.resources
+E:\Programmieren\Word\WordCounterAddin\WordCounterAddin\obj\Debug\WordCounterAddin.WordCounterRibbon.resources
+E:\Programmieren\Word\WordCounterAddin\WordCounterAddin\obj\Debug\WordCounterAddin.csproj.GenerateResource.Cache
+E:\Programmieren\Word\WordCounterAddin\WordCounterAddin\obj\Debug\WordCounterAddin.csproj.CoreCompileInputs.cache
+E:\Programmieren\Word\WordCounterAddin\WordCounterAddin\obj\Debug\WordCounterAddin.dll
+E:\Programmieren\Word\WordCounterAddin\WordCounterAddin\obj\Debug\WordCounterAddin.pdb
+E:\Programmieren\Word\WordCounterAddin\WordCounterAddin\obj\Debug\WordCounterAddin.StatisticsForm.resources
